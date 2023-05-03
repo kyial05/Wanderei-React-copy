@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("Source Sans Pro");
+  src: url("./Container/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Crimson Text";
+  src: local("Crimson Text");
+  src: url("./Container/fonts/Crimson_Text/CrimsonText-Regular.ttf");
+  font-weight: normal;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+  }
